@@ -1,1 +1,1 @@
-# edubot
+Edubot is an eduacational assistant which is helpful in managing different services that are taken place during the course of an examination.
