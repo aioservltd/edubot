@@ -12,7 +12,7 @@
         print('Start Job Id: ' + self.startJobId)
 
 
-    def GetFaceSearchCollectionResults():
+    def GetFaceSearchCollectionResults(self):
         maxResults = 10
         paginationToken = ''
 
